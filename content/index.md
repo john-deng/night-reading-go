@@ -30,7 +30,7 @@ weight: 0
 
 ## 0. Golang Proposal
 
-- 阅读 [Golang Proposal](https://github.com/golang/proposal) ，有兴趣的朋友可以一起。
+- 阅读 [Golang Proposal](/proposal/) ，有兴趣的朋友可以一起。
 
 ## 1. 往期回顾
 
